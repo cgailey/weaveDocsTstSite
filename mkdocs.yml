@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Weave GitOps Docs
+nav:
+  - Home: index.md
+  - Version:
+    - Latest: latest/index.md
+    - v1.3.0: v1.3.0/index.md
+    - v1.2.5: v1.2.5/index.md
+    - v1.0.2: v1.0.2/index.md
+
