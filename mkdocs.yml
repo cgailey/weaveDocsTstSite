@@ -6,4 +6,9 @@ nav:
     - v1.3.0: v1.3.0/index.md
     - v1.2.5: v1.2.5/index.md
     - v1.0.2: v1.0.2/index.md
-
+  - Missing: notHere.md
+theme:
+  name: material
+  custom_dir: overrides/
+  features:
+    - navigation.tabs

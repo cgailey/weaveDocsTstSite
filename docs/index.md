@@ -1,3 +1,7 @@
+---
+template: single_column.html
+---
+
 # Welcome to Weave GitOps Docs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
