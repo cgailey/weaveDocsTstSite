@@ -27,3 +27,4 @@ What changed:
 
 * fixed typo
 * made change
+* another change
